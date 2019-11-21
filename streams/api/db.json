@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "Trying to create a stream",
+      "description": "This could be awful",
+      "id": 1
+    },
+    {
+      "title": "Another Stream",
+      "description": "Just to get more stream on state",
+      "id": 2
+    },
+    {
+      "title": "A Stream With User ID",
+      "description": "This change was made by a patch request",
+      "userId": "102997994701070267083",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should go right back to home page",
+      "userId": "102997994701070267083",
+      "id": 5
+    },
+    {
+      "title": "Streaming Component Reuse",
+      "description": "Really hoping the refactoring succeeded",
+      "userId": "102997994701070267083",
+      "id": 6
+    },
+    {
+      "title": "A Little Surprise",
+      "description": ":D",
+      "userId": "102997994701070267083",
+      "id": 7
+    }
+  ]
+}
